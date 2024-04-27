@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    ─「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「 𝗩𝗜VI 𝗠𝗨𝗦𝗜𝗖 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -27,15 +27,15 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THE-VIP-BOY-OP&repo=VIP-MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")
+[![GIF](https://github.com/THE-VIVI-BOY-OP/VIVI-MUSIC/blob/main/THE-VIVI-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=THE-VIVI-BOY-OP "THE_VIVI_BOY")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")
 
 
 <p align="center">
   <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](@BINI_VIVI_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖 𝗕𝗢𝗧](@BINI_VIVI_BOT)**
 
 
 
